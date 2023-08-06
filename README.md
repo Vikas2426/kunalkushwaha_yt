@@ -11,3 +11,5 @@ Following a youtube playlist to refresh my Java and DSA skills and knowledge.
 1. [Theory + Implementation + Types](https://www.youtube.com/watch?v=rHQI4mrJ3cg&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=47&ab_channel=KunalKushwaha)
 
 1. [Questions](https://www.youtube.com/watch?v=S9LUYztYLu4&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=47&pp=iAQB)
+
+1. [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
