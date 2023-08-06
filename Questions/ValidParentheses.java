@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Stack;
 
 public class ValidParentheses {
     public static boolean isValid(String s) {
